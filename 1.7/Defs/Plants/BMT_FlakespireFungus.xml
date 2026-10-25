@@ -22,10 +22,10 @@
 			<wildOrder>3</wildOrder>
 			<neverBlightable>true</neverBlightable>
 			<treeLoversCareIfChopped>true</treeLoversCareIfChopped>
-			<wildTerrainTags>
-				<li>SoilBasic</li>
-				<li>SoilRich</li>
-			</wildTerrainTags>
+			<!-- <wildTerrainTags> -->
+				<!-- <li>SoilBasic</li> -->
+				<!-- <li>SoilRich</li> -->
+			<!-- </wildTerrainTags> -->
 		</plant>
 	</ThingDef>
 </Defs>
