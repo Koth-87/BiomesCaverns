@@ -59,7 +59,7 @@
 				<eggUnfertilizedDef>BMT_EggHungeringHydraUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>2</eggFertilizationCountMax>
 				<eggLayIntervalDays>20</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>1~2</eggCountRange>
 			</li>
 		</comps>

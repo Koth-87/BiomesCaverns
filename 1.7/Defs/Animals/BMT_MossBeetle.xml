@@ -291,7 +291,7 @@
 				<eggUnfertilizedDef>BMT_EggMossBeetleUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>1</eggFertilizationCountMax>
 				<eggLayIntervalDays>3</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>1</eggCountRange>
 			</li>
 		</comps>

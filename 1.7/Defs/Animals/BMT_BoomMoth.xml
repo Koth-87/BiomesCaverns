@@ -277,7 +277,7 @@
 				<eggUnfertilizedDef>BMT_EggBoomapillarUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>10</eggFertilizationCountMax>
 				<eggLayIntervalDays>23.64</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>3~4</eggCountRange>
 			</li>
 			<li Class="VEF.AnimalBehaviours.CompProperties_Floating" MayRequire="oskarpotocki.vanillafactionsexpanded.core">

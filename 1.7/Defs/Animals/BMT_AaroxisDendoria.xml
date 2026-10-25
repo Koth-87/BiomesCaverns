@@ -275,7 +275,7 @@
 				<eggUnfertilizedDef>BMT_EggAaroxisDendoriaUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>10</eggFertilizationCountMax>
 				<eggLayIntervalDays>15</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>1~2</eggCountRange>
 			</li>
 		</comps>

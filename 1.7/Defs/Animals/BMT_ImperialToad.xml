@@ -57,7 +57,7 @@
 				<eggUnfertilizedDef>BMT_EggImperialToadUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>1</eggFertilizationCountMax>
 				<eggLayIntervalDays>5</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>5~6</eggCountRange>
 			</li>
 		</comps>

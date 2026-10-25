@@ -26,7 +26,7 @@
 				<eggFertilizedDef>BMT_EggAcidSlugFertilized</eggFertilizedDef>
 				<eggUnfertilizedDef>BMT_EggAcidSlugUnfertilized</eggUnfertilizedDef>
 				<eggLayIntervalDays>36</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>1~1</eggCountRange>
 				<eggLayFemaleOnly>false</eggLayFemaleOnly>
 			</li>

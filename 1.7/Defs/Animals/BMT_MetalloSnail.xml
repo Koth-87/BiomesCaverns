@@ -36,7 +36,7 @@
 				<eggFertilizedDef>BMT_EggMetalloSnailFertilized</eggFertilizedDef>
 				<eggUnfertilizedDef>BMT_EggMetalloSnailUnfertilized</eggUnfertilizedDef>
 				<eggLayIntervalDays>12</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>1~2</eggCountRange>
 				<eggLayFemaleOnly>false</eggLayFemaleOnly>
 			</li>

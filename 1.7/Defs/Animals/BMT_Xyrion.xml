@@ -58,7 +58,7 @@
 				<eggUnfertilizedDef>BMT_EggXyrionUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>1</eggFertilizationCountMax>
 				<eggLayIntervalDays>5.661</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>2~3</eggCountRange>
 			</li>
 			<li Class="BiomesCore.CompProperties_HarvestAnimalProduct">

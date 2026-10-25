@@ -60,7 +60,7 @@
 				<eggUnfertilizedDef>BMT_EggFireSalamanderUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>1</eggFertilizationCountMax>
 				<eggLayIntervalDays>6.5</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>1~2</eggCountRange>
 			</li>
 			<li Class="VEF.AnimalBehaviours.CompProperties_Regeneration" MayRequire="oskarpotocki.vanillafactionsexpanded.core">

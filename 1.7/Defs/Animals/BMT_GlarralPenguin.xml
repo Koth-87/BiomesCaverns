@@ -57,7 +57,7 @@
 				<eggUnfertilizedDef>BMT_EggGlarralPenguinUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>1</eggFertilizationCountMax>
 				<eggLayIntervalDays>3.33</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>1</eggCountRange>
 			</li>
 		</comps>

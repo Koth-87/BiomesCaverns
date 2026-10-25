@@ -123,7 +123,7 @@
 				<eggFertilizedDef>BMT_EggGembugFertilized</eggFertilizedDef>
 				<eggUnfertilizedDef>BMT_EggGembugUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>2</eggFertilizationCountMax>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggLayIntervalDays>5.5</eggLayIntervalDays>
 				<eggCountRange>2~4</eggCountRange>
 			</li>

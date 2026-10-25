@@ -31,7 +31,7 @@
 				<eggFertilizedDef>BMT_EggFungalWeevilFertilized</eggFertilizedDef>
 				<eggUnfertilizedDef>BMT_EggFungalWeevilUnfertilized</eggUnfertilizedDef>
 				<eggLayIntervalDays>5</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>1~3</eggCountRange>
 			</li>
 		</comps>

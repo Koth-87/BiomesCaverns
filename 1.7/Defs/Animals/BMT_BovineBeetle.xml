@@ -311,7 +311,7 @@
 				<eggUnfertilizedDef>BMT_EggBovineBeetleUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>1</eggFertilizationCountMax>
 				<eggLayIntervalDays>4.5</eggLayIntervalDays>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggCountRange>1~2</eggCountRange>
 			</li>
 			<li Class="BiomesCore.ThingComponents.CompProperties_AnimalThingSpawner">

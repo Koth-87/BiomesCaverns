@@ -74,7 +74,7 @@
 				<eggFertilizedDef>BMT_EggFleeceSpiderFertilized</eggFertilizedDef>
 				<eggUnfertilizedDef>BMT_EggFleeceSpiderUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>4</eggFertilizationCountMax>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggLayIntervalDays>7</eggLayIntervalDays>
 				<eggCountRange>2~3</eggCountRange>
 			</li>

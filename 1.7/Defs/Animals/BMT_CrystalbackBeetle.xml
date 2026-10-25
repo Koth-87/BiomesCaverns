@@ -300,7 +300,7 @@
 				<eggFertilizedDef>BMT_EggCrystalbackBeetleFertilized</eggFertilizedDef>
 				<eggUnfertilizedDef>BMT_EggCrystalbackBeetleUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>3</eggFertilizationCountMax>
-				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+				<eggProgressUnfertilizedMax>1</eggProgressUnfertilizedMax>
 				<eggLayIntervalDays>3.75</eggLayIntervalDays>
 				<eggCountRange>1</eggCountRange>
 			</li>
